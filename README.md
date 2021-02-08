@@ -24,6 +24,8 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 本项目许多资料参考了[Servon-Lee](https://github.com/Servon-Lee)朋友的repo：[HHU_course](https://github.com/Servon-Lee/HHU_course),欢迎大家一起点个star支持！
 
+如果想获得该项目的最新推送，可以点个watch！
+
 内容
 ------
 1. 课程PPT
