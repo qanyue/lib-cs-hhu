@@ -3,11 +3,6 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 ![GitHub repo size](https://img.shields.io/github/repo-size/Juicern/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Juicern/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Juicern/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Juicern/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-Juicern-{#00FF00}.svg)](https://leetcode-cn.com/u/juicern)
 
 
-项目转手
-----
-目前本项目已由[VCode28629](https://github.com/VCode28629)和[Juicern](https://github.com/Ricky-Chu)共同维护，联系方式分别为vcode28629@qq.com，qs4869@outlook.com。
-
-
 前言
 ----
 刚踏入大学的大门，修读计算机的课程，其中免不了许多坎坷，希望提供的这些资料，可以帮助各位更好、更快地学会计算机专业课程。
@@ -125,7 +120,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 **如您觉得一些资料侵犯了您的权益，请向我发送邮件，过失之处，实在抱歉。**
 
-联系邮箱：vcode28629@qq.com，qs4869@outlook.com，恕不接受其它联系方式。
+联系邮箱：qs4869@outlook.com，恕不接受其它联系方式。
 
 备注
 ------
