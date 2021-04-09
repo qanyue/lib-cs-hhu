@@ -1,11 +1,6 @@
 lib-cs-hhu（河海大学计算机类课程资料整理）
 -----
-![GitHub repo size](https://img.shields.io/github/repo-size/Ricky-Chu/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Ricky-Chu/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-rickychu-{#00FF00}.svg)](https://leetcode-cn.com/u/rickychu)
-
-
-项目转手
-----
-目前本项目已由[VCode28629](https://github.com/VCode28629)和[RickyChu](https://github.com/Ricky-Chu)共同维护，联系方式分别为vcode28629@qq.com，qs4869@outlook.com。
+![GitHub repo size](https://img.shields.io/github/repo-size/Juicern/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Juicern/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Juicern/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Juicern/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-Juicern-{#00FF00}.svg)](https://leetcode-cn.com/u/juicern)
 
 
 前言
@@ -18,11 +13,13 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 我希望大家也是把这些资料作为学习的快速通道，而不是单纯为了分数的旁门左道。
 
-**因项目过大，可能因为网络和github服务器等问题，难以将项目完全下载**，这里提供一个可下载单个文件夹的chrome插件：[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn/related)，下载结束后双击repo中的文件夹即可下载单个文件夹。因此法需要科学上网，条件欠缺的朋友可以自行Bing别的方法。
+**因项目过大，可能因为网络和github服务器等问题，难以将项目完全下载**，这里提供一个可下载单个文件夹的chrome插件：[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn/related)，下载结束后双击repo中的文件夹即可下载单个文件夹。因此法需要科学上网，条件欠缺的朋友可以自行寻找别的方法。
 
-**另外，如果下载速度太慢，可以尝试一下使用码云，具体教程请自行寻找**
+**另外，如果下载速度太慢，可以尝试一下使用gitee，具体教程请自行寻找**
 
 本项目许多资料参考了[Servon-Lee](https://github.com/Servon-Lee)朋友的repo：[HHU_course](https://github.com/Servon-Lee/HHU_course),欢迎大家一起点个star支持！
+
+如果想获得该项目的最新推送，可以点个watch！
 
 内容
 ------
@@ -36,18 +33,18 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 ## 详细内容
 
-### [大一上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8A)
+### [大一上](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8A)
 
 * C&C++
 * C&C++上机实践
 * 计算机导论
 
-### [大一下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B)
+### [大一下](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B)
 
 * Java
 * 大学物理BII
 
-### [大二上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A)
+### [大二上](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A)
 
 * 概率论与数理统计
 * 离散数学
@@ -55,7 +52,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 电路与电子技术基础
 * 电路与电子基础实验
 
-### [大二下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B)
+### [大二下](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B)
 
 * Android应用程序开发
 * 程序设计方法
@@ -64,7 +61,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 软件开发环境
 * 算法与数据结构
 
-### [大三上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A)
+### [大三上](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A)
 
 * 编译原理
 * 操作系统
@@ -75,7 +72,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 微机原理
 * 微机接口实验
 
-### [大三下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B)
+### [大三下](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B)
 
 * Linux操作系统与运用
 * 计算机网络
@@ -89,7 +86,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 数字图像处理
 * 云计算应用开发实践
 
-### [大四上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E5%9B%9B%E4%B8%8A)
+### [大四上](https://github.com/Juicern/lib-cs-hhu/tree/master/%E5%A4%A7%E5%9B%9B%E4%B8%8A)
 
 * 软件需求工程
 * 网络安全
@@ -123,7 +120,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 **如您觉得一些资料侵犯了您的权益，请向我发送邮件，过失之处，实在抱歉。**
 
-联系邮箱：vcode28629@qq.com，qs4869@outlook.com，恕不接受其它联系方式。
+联系邮箱：qs4869@outlook.com，恕不接受其它联系方式。
 
 备注
 ------
@@ -144,4 +141,4 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 ## 捐献
 
-本项目为开发者们自愿上传所成，若想捐献本项目，可移至页面最上方的[Sponsor](https://github.com/Ricky-Chu/lib-cs-hhu/blob/master/Donate/alipay.jpg)进行捐献
+本项目为开发者们自愿上传所成，若想捐献本项目，可移至页面最上方的[Sponsor](https://github.com/Juicern/lib-cs-hhu/blob/master/Donate/alipay.jpg)进行捐献
